@@ -1,1 +1,6 @@
 # hello-world
+
+hi people
+
+this is first code in github....#understanding devops-github...
+...............................................................
